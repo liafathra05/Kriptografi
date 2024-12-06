@@ -4,7 +4,7 @@
 Program ini adalah aplikasi Python untuk enkripsi dan dekripsi menggunakan tiga algoritma kriptografi: Vigenere Cipher, Playfair Cipher, dan Hill Cipher. Program ini memiliki antarmuka pengguna grafis (GUI) yang dibuat dengan tkinter dan dapat menerima input teks melalui keyboard atau file.
 
 # Cara Menjalankan Program
-1. Persiapan Lingkungan
+1. Persiapan
 - Pastikan Python 3.x sudah terinstal di komputer.
 - Instal numpy jika belum terinstal dengan perintah: pip install numpy
 
